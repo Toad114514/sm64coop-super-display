@@ -8,6 +8,6 @@ Support sm64ex-coop and sm64ex-coopdx
  - Level Data
  - on/off Menu
 # Usage
-Download SuperDisplay.lua and put your mods folder
+Download Superdisplay.lua and put your mods folder
 Open sm64ex-coop or sm64ex-coopdx to enable that
 You can see some information on the left of the display
